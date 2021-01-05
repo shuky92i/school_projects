@@ -1,0 +1,25 @@
+-- TESTING [PASS] + [GRUNT]
+
+toggle_debug_mode
+setup_next(1)
+play(10,10,20,40,60,80,100)
+setup_next(1)
+setup_next(1)
+setup_next(1)
+setup_next(1)
+setup_next(1)
+move(C,1)
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+pass
+move(D,1)
+fire
+fire
